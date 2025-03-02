@@ -1,6 +1,6 @@
 # Портфолио
 
-![Фото] (https://disk.yandex.ru/i/kjxrbVEFnrmX6g)
+![Фото](image.png)
 
 **Фамилия:** Борисов
 
